@@ -1,0 +1,18 @@
+# Core pipeline
+opencv-python-headless>=4.8
+pillow>=10.0
+pytesseract>=0.3.10
+numpy>=1.24
+pandas>=2.0
+
+# Evaluation / analysis
+scikit-learn>=1.3
+scikit-image>=0.21
+matplotlib>=3.7
+seaborn>=0.12
+
+# Interactive app
+streamlit>=1.28
+
+# Dev
+pytest>=7.4
