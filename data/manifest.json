@@ -1,0 +1,1442 @@
+[
+  {
+    "receipt_id": "R0000_IUC0",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0000_IUC0.png",
+    "photo_path": "data/images/photo/R0000_IUC0.jpg",
+    "gt_path": "data/ground_truth/R0000_IUC0.json"
+  },
+  {
+    "receipt_id": "R0001_ZCCB",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0001_ZCCB.png",
+    "photo_path": "data/images/photo/R0001_ZCCB.jpg",
+    "gt_path": "data/ground_truth/R0001_ZCCB.json"
+  },
+  {
+    "receipt_id": "R0002_Q5C3",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0002_Q5C3.png",
+    "photo_path": "data/images/photo/R0002_Q5C3.jpg",
+    "gt_path": "data/ground_truth/R0002_Q5C3.json"
+  },
+  {
+    "receipt_id": "R0003_4CC5",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0003_4CC5.png",
+    "photo_path": "data/images/photo/R0003_4CC5.jpg",
+    "gt_path": "data/ground_truth/R0003_4CC5.json"
+  },
+  {
+    "receipt_id": "R0004_F4ZW",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0004_F4ZW.png",
+    "photo_path": "data/images/photo/R0004_F4ZW.jpg",
+    "gt_path": "data/ground_truth/R0004_F4ZW.json"
+  },
+  {
+    "receipt_id": "R0005_6T4U",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0005_6T4U.png",
+    "photo_path": "data/images/photo/R0005_6T4U.jpg",
+    "gt_path": "data/ground_truth/R0005_6T4U.json"
+  },
+  {
+    "receipt_id": "R0006_Y0IF",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0006_Y0IF.png",
+    "photo_path": "data/images/photo/R0006_Y0IF.jpg",
+    "gt_path": "data/ground_truth/R0006_Y0IF.json"
+  },
+  {
+    "receipt_id": "R0007_LA5J",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0007_LA5J.png",
+    "photo_path": "data/images/photo/R0007_LA5J.jpg",
+    "gt_path": "data/ground_truth/R0007_LA5J.json"
+  },
+  {
+    "receipt_id": "R0008_XLL4",
+    "category": "pharmacy",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0008_XLL4.png",
+    "photo_path": "data/images/photo/R0008_XLL4.jpg",
+    "gt_path": "data/ground_truth/R0008_XLL4.json"
+  },
+  {
+    "receipt_id": "R0009_R62G",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0009_R62G.png",
+    "photo_path": "data/images/photo/R0009_R62G.jpg",
+    "gt_path": "data/ground_truth/R0009_R62G.json"
+  },
+  {
+    "receipt_id": "R0010_2ZQU",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0010_2ZQU.png",
+    "photo_path": "data/images/photo/R0010_2ZQU.jpg",
+    "gt_path": "data/ground_truth/R0010_2ZQU.json"
+  },
+  {
+    "receipt_id": "R0011_CKJL",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0011_CKJL.png",
+    "photo_path": "data/images/photo/R0011_CKJL.jpg",
+    "gt_path": "data/ground_truth/R0011_CKJL.json"
+  },
+  {
+    "receipt_id": "R0012_64T0",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0012_64T0.png",
+    "photo_path": "data/images/photo/R0012_64T0.jpg",
+    "gt_path": "data/ground_truth/R0012_64T0.json"
+  },
+  {
+    "receipt_id": "R0013_HL1N",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0013_HL1N.png",
+    "photo_path": "data/images/photo/R0013_HL1N.jpg",
+    "gt_path": "data/ground_truth/R0013_HL1N.json"
+  },
+  {
+    "receipt_id": "R0014_Z1GV",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0014_Z1GV.png",
+    "photo_path": "data/images/photo/R0014_Z1GV.jpg",
+    "gt_path": "data/ground_truth/R0014_Z1GV.json"
+  },
+  {
+    "receipt_id": "R0015_RPN6",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0015_RPN6.png",
+    "photo_path": "data/images/photo/R0015_RPN6.jpg",
+    "gt_path": "data/ground_truth/R0015_RPN6.json"
+  },
+  {
+    "receipt_id": "R0016_MRLR",
+    "category": "pharmacy",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0016_MRLR.png",
+    "photo_path": "data/images/photo/R0016_MRLR.jpg",
+    "gt_path": "data/ground_truth/R0016_MRLR.json"
+  },
+  {
+    "receipt_id": "R0017_LZJJ",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0017_LZJJ.png",
+    "photo_path": "data/images/photo/R0017_LZJJ.jpg",
+    "gt_path": "data/ground_truth/R0017_LZJJ.json"
+  },
+  {
+    "receipt_id": "R0018_DAKR",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0018_DAKR.png",
+    "photo_path": "data/images/photo/R0018_DAKR.jpg",
+    "gt_path": "data/ground_truth/R0018_DAKR.json"
+  },
+  {
+    "receipt_id": "R0019_ISQP",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0019_ISQP.png",
+    "photo_path": "data/images/photo/R0019_ISQP.jpg",
+    "gt_path": "data/ground_truth/R0019_ISQP.json"
+  },
+  {
+    "receipt_id": "R0020_X63C",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0020_X63C.png",
+    "photo_path": "data/images/photo/R0020_X63C.jpg",
+    "gt_path": "data/ground_truth/R0020_X63C.json"
+  },
+  {
+    "receipt_id": "R0021_WRDM",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0021_WRDM.png",
+    "photo_path": "data/images/photo/R0021_WRDM.jpg",
+    "gt_path": "data/ground_truth/R0021_WRDM.json"
+  },
+  {
+    "receipt_id": "R0022_PZE9",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0022_PZE9.png",
+    "photo_path": "data/images/photo/R0022_PZE9.jpg",
+    "gt_path": "data/ground_truth/R0022_PZE9.json"
+  },
+  {
+    "receipt_id": "R0023_2O7S",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0023_2O7S.png",
+    "photo_path": "data/images/photo/R0023_2O7S.jpg",
+    "gt_path": "data/ground_truth/R0023_2O7S.json"
+  },
+  {
+    "receipt_id": "R0024_AF58",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0024_AF58.png",
+    "photo_path": "data/images/photo/R0024_AF58.jpg",
+    "gt_path": "data/ground_truth/R0024_AF58.json"
+  },
+  {
+    "receipt_id": "R0025_BLCM",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0025_BLCM.png",
+    "photo_path": "data/images/photo/R0025_BLCM.jpg",
+    "gt_path": "data/ground_truth/R0025_BLCM.json"
+  },
+  {
+    "receipt_id": "R0026_PMVX",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0026_PMVX.png",
+    "photo_path": "data/images/photo/R0026_PMVX.jpg",
+    "gt_path": "data/ground_truth/R0026_PMVX.json"
+  },
+  {
+    "receipt_id": "R0027_1I2H",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0027_1I2H.png",
+    "photo_path": "data/images/photo/R0027_1I2H.jpg",
+    "gt_path": "data/ground_truth/R0027_1I2H.json"
+  },
+  {
+    "receipt_id": "R0028_N2AT",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0028_N2AT.png",
+    "photo_path": "data/images/photo/R0028_N2AT.jpg",
+    "gt_path": "data/ground_truth/R0028_N2AT.json"
+  },
+  {
+    "receipt_id": "R0029_5X4W",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0029_5X4W.png",
+    "photo_path": "data/images/photo/R0029_5X4W.jpg",
+    "gt_path": "data/ground_truth/R0029_5X4W.json"
+  },
+  {
+    "receipt_id": "R0030_6A4F",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0030_6A4F.png",
+    "photo_path": "data/images/photo/R0030_6A4F.jpg",
+    "gt_path": "data/ground_truth/R0030_6A4F.json"
+  },
+  {
+    "receipt_id": "R0031_25SQ",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0031_25SQ.png",
+    "photo_path": "data/images/photo/R0031_25SQ.jpg",
+    "gt_path": "data/ground_truth/R0031_25SQ.json"
+  },
+  {
+    "receipt_id": "R0032_O3O0",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0032_O3O0.png",
+    "photo_path": "data/images/photo/R0032_O3O0.jpg",
+    "gt_path": "data/ground_truth/R0032_O3O0.json"
+  },
+  {
+    "receipt_id": "R0033_MUHX",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0033_MUHX.png",
+    "photo_path": "data/images/photo/R0033_MUHX.jpg",
+    "gt_path": "data/ground_truth/R0033_MUHX.json"
+  },
+  {
+    "receipt_id": "R0034_DTNQ",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0034_DTNQ.png",
+    "photo_path": "data/images/photo/R0034_DTNQ.jpg",
+    "gt_path": "data/ground_truth/R0034_DTNQ.json"
+  },
+  {
+    "receipt_id": "R0035_VAKH",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0035_VAKH.png",
+    "photo_path": "data/images/photo/R0035_VAKH.jpg",
+    "gt_path": "data/ground_truth/R0035_VAKH.json"
+  },
+  {
+    "receipt_id": "R0036_2W37",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0036_2W37.png",
+    "photo_path": "data/images/photo/R0036_2W37.jpg",
+    "gt_path": "data/ground_truth/R0036_2W37.json"
+  },
+  {
+    "receipt_id": "R0037_3IFH",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0037_3IFH.png",
+    "photo_path": "data/images/photo/R0037_3IFH.jpg",
+    "gt_path": "data/ground_truth/R0037_3IFH.json"
+  },
+  {
+    "receipt_id": "R0038_QC3C",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0038_QC3C.png",
+    "photo_path": "data/images/photo/R0038_QC3C.jpg",
+    "gt_path": "data/ground_truth/R0038_QC3C.json"
+  },
+  {
+    "receipt_id": "R0039_BWML",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0039_BWML.png",
+    "photo_path": "data/images/photo/R0039_BWML.jpg",
+    "gt_path": "data/ground_truth/R0039_BWML.json"
+  },
+  {
+    "receipt_id": "R0040_8RIE",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0040_8RIE.png",
+    "photo_path": "data/images/photo/R0040_8RIE.jpg",
+    "gt_path": "data/ground_truth/R0040_8RIE.json"
+  },
+  {
+    "receipt_id": "R0041_Z8V1",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0041_Z8V1.png",
+    "photo_path": "data/images/photo/R0041_Z8V1.jpg",
+    "gt_path": "data/ground_truth/R0041_Z8V1.json"
+  },
+  {
+    "receipt_id": "R0042_FP8H",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0042_FP8H.png",
+    "photo_path": "data/images/photo/R0042_FP8H.jpg",
+    "gt_path": "data/ground_truth/R0042_FP8H.json"
+  },
+  {
+    "receipt_id": "R0043_W6AH",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0043_W6AH.png",
+    "photo_path": "data/images/photo/R0043_W6AH.jpg",
+    "gt_path": "data/ground_truth/R0043_W6AH.json"
+  },
+  {
+    "receipt_id": "R0044_UGYS",
+    "category": "pharmacy",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0044_UGYS.png",
+    "photo_path": "data/images/photo/R0044_UGYS.jpg",
+    "gt_path": "data/ground_truth/R0044_UGYS.json"
+  },
+  {
+    "receipt_id": "R0045_LO3R",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0045_LO3R.png",
+    "photo_path": "data/images/photo/R0045_LO3R.jpg",
+    "gt_path": "data/ground_truth/R0045_LO3R.json"
+  },
+  {
+    "receipt_id": "R0046_CXLV",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0046_CXLV.png",
+    "photo_path": "data/images/photo/R0046_CXLV.jpg",
+    "gt_path": "data/ground_truth/R0046_CXLV.json"
+  },
+  {
+    "receipt_id": "R0047_XIE0",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0047_XIE0.png",
+    "photo_path": "data/images/photo/R0047_XIE0.jpg",
+    "gt_path": "data/ground_truth/R0047_XIE0.json"
+  },
+  {
+    "receipt_id": "R0048_EHE2",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0048_EHE2.png",
+    "photo_path": "data/images/photo/R0048_EHE2.jpg",
+    "gt_path": "data/ground_truth/R0048_EHE2.json"
+  },
+  {
+    "receipt_id": "R0049_KF7I",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0049_KF7I.png",
+    "photo_path": "data/images/photo/R0049_KF7I.jpg",
+    "gt_path": "data/ground_truth/R0049_KF7I.json"
+  },
+  {
+    "receipt_id": "R0050_OXRW",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0050_OXRW.png",
+    "photo_path": "data/images/photo/R0050_OXRW.jpg",
+    "gt_path": "data/ground_truth/R0050_OXRW.json"
+  },
+  {
+    "receipt_id": "R0051_DKNW",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0051_DKNW.png",
+    "photo_path": "data/images/photo/R0051_DKNW.jpg",
+    "gt_path": "data/ground_truth/R0051_DKNW.json"
+  },
+  {
+    "receipt_id": "R0052_DEJN",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0052_DEJN.png",
+    "photo_path": "data/images/photo/R0052_DEJN.jpg",
+    "gt_path": "data/ground_truth/R0052_DEJN.json"
+  },
+  {
+    "receipt_id": "R0053_FVOB",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0053_FVOB.png",
+    "photo_path": "data/images/photo/R0053_FVOB.jpg",
+    "gt_path": "data/ground_truth/R0053_FVOB.json"
+  },
+  {
+    "receipt_id": "R0054_8UIB",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0054_8UIB.png",
+    "photo_path": "data/images/photo/R0054_8UIB.jpg",
+    "gt_path": "data/ground_truth/R0054_8UIB.json"
+  },
+  {
+    "receipt_id": "R0055_Y2JR",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0055_Y2JR.png",
+    "photo_path": "data/images/photo/R0055_Y2JR.jpg",
+    "gt_path": "data/ground_truth/R0055_Y2JR.json"
+  },
+  {
+    "receipt_id": "R0056_EWVI",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0056_EWVI.png",
+    "photo_path": "data/images/photo/R0056_EWVI.jpg",
+    "gt_path": "data/ground_truth/R0056_EWVI.json"
+  },
+  {
+    "receipt_id": "R0057_UT07",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0057_UT07.png",
+    "photo_path": "data/images/photo/R0057_UT07.jpg",
+    "gt_path": "data/ground_truth/R0057_UT07.json"
+  },
+  {
+    "receipt_id": "R0058_FQJG",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0058_FQJG.png",
+    "photo_path": "data/images/photo/R0058_FQJG.jpg",
+    "gt_path": "data/ground_truth/R0058_FQJG.json"
+  },
+  {
+    "receipt_id": "R0059_51YW",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0059_51YW.png",
+    "photo_path": "data/images/photo/R0059_51YW.jpg",
+    "gt_path": "data/ground_truth/R0059_51YW.json"
+  },
+  {
+    "receipt_id": "R0060_EHUD",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0060_EHUD.png",
+    "photo_path": "data/images/photo/R0060_EHUD.jpg",
+    "gt_path": "data/ground_truth/R0060_EHUD.json"
+  },
+  {
+    "receipt_id": "R0061_XP9N",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0061_XP9N.png",
+    "photo_path": "data/images/photo/R0061_XP9N.jpg",
+    "gt_path": "data/ground_truth/R0061_XP9N.json"
+  },
+  {
+    "receipt_id": "R0062_G51B",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0062_G51B.png",
+    "photo_path": "data/images/photo/R0062_G51B.jpg",
+    "gt_path": "data/ground_truth/R0062_G51B.json"
+  },
+  {
+    "receipt_id": "R0063_UU13",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0063_UU13.png",
+    "photo_path": "data/images/photo/R0063_UU13.jpg",
+    "gt_path": "data/ground_truth/R0063_UU13.json"
+  },
+  {
+    "receipt_id": "R0064_II4F",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0064_II4F.png",
+    "photo_path": "data/images/photo/R0064_II4F.jpg",
+    "gt_path": "data/ground_truth/R0064_II4F.json"
+  },
+  {
+    "receipt_id": "R0065_0016",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0065_0016.png",
+    "photo_path": "data/images/photo/R0065_0016.jpg",
+    "gt_path": "data/ground_truth/R0065_0016.json"
+  },
+  {
+    "receipt_id": "R0066_VZKH",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0066_VZKH.png",
+    "photo_path": "data/images/photo/R0066_VZKH.jpg",
+    "gt_path": "data/ground_truth/R0066_VZKH.json"
+  },
+  {
+    "receipt_id": "R0067_YWRR",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0067_YWRR.png",
+    "photo_path": "data/images/photo/R0067_YWRR.jpg",
+    "gt_path": "data/ground_truth/R0067_YWRR.json"
+  },
+  {
+    "receipt_id": "R0068_QIZK",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0068_QIZK.png",
+    "photo_path": "data/images/photo/R0068_QIZK.jpg",
+    "gt_path": "data/ground_truth/R0068_QIZK.json"
+  },
+  {
+    "receipt_id": "R0069_YUJ7",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0069_YUJ7.png",
+    "photo_path": "data/images/photo/R0069_YUJ7.jpg",
+    "gt_path": "data/ground_truth/R0069_YUJ7.json"
+  },
+  {
+    "receipt_id": "R0070_W2QI",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0070_W2QI.png",
+    "photo_path": "data/images/photo/R0070_W2QI.jpg",
+    "gt_path": "data/ground_truth/R0070_W2QI.json"
+  },
+  {
+    "receipt_id": "R0071_TOAM",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0071_TOAM.png",
+    "photo_path": "data/images/photo/R0071_TOAM.jpg",
+    "gt_path": "data/ground_truth/R0071_TOAM.json"
+  },
+  {
+    "receipt_id": "R0072_DK8L",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0072_DK8L.png",
+    "photo_path": "data/images/photo/R0072_DK8L.jpg",
+    "gt_path": "data/ground_truth/R0072_DK8L.json"
+  },
+  {
+    "receipt_id": "R0073_ZPKY",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0073_ZPKY.png",
+    "photo_path": "data/images/photo/R0073_ZPKY.jpg",
+    "gt_path": "data/ground_truth/R0073_ZPKY.json"
+  },
+  {
+    "receipt_id": "R0074_2DDH",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0074_2DDH.png",
+    "photo_path": "data/images/photo/R0074_2DDH.jpg",
+    "gt_path": "data/ground_truth/R0074_2DDH.json"
+  },
+  {
+    "receipt_id": "R0075_CBZA",
+    "category": "pharmacy",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0075_CBZA.png",
+    "photo_path": "data/images/photo/R0075_CBZA.jpg",
+    "gt_path": "data/ground_truth/R0075_CBZA.json"
+  },
+  {
+    "receipt_id": "R0076_AHKZ",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0076_AHKZ.png",
+    "photo_path": "data/images/photo/R0076_AHKZ.jpg",
+    "gt_path": "data/ground_truth/R0076_AHKZ.json"
+  },
+  {
+    "receipt_id": "R0077_NGWY",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0077_NGWY.png",
+    "photo_path": "data/images/photo/R0077_NGWY.jpg",
+    "gt_path": "data/ground_truth/R0077_NGWY.json"
+  },
+  {
+    "receipt_id": "R0078_2U1R",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0078_2U1R.png",
+    "photo_path": "data/images/photo/R0078_2U1R.jpg",
+    "gt_path": "data/ground_truth/R0078_2U1R.json"
+  },
+  {
+    "receipt_id": "R0079_HHCM",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0079_HHCM.png",
+    "photo_path": "data/images/photo/R0079_HHCM.jpg",
+    "gt_path": "data/ground_truth/R0079_HHCM.json"
+  },
+  {
+    "receipt_id": "R0080_1O0Z",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0080_1O0Z.png",
+    "photo_path": "data/images/photo/R0080_1O0Z.jpg",
+    "gt_path": "data/ground_truth/R0080_1O0Z.json"
+  },
+  {
+    "receipt_id": "R0081_8HYE",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0081_8HYE.png",
+    "photo_path": "data/images/photo/R0081_8HYE.jpg",
+    "gt_path": "data/ground_truth/R0081_8HYE.json"
+  },
+  {
+    "receipt_id": "R0082_PECN",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0082_PECN.png",
+    "photo_path": "data/images/photo/R0082_PECN.jpg",
+    "gt_path": "data/ground_truth/R0082_PECN.json"
+  },
+  {
+    "receipt_id": "R0083_2IXI",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0083_2IXI.png",
+    "photo_path": "data/images/photo/R0083_2IXI.jpg",
+    "gt_path": "data/ground_truth/R0083_2IXI.json"
+  },
+  {
+    "receipt_id": "R0084_E4UN",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0084_E4UN.png",
+    "photo_path": "data/images/photo/R0084_E4UN.jpg",
+    "gt_path": "data/ground_truth/R0084_E4UN.json"
+  },
+  {
+    "receipt_id": "R0085_79FL",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0085_79FL.png",
+    "photo_path": "data/images/photo/R0085_79FL.jpg",
+    "gt_path": "data/ground_truth/R0085_79FL.json"
+  },
+  {
+    "receipt_id": "R0086_B4GF",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0086_B4GF.png",
+    "photo_path": "data/images/photo/R0086_B4GF.jpg",
+    "gt_path": "data/ground_truth/R0086_B4GF.json"
+  },
+  {
+    "receipt_id": "R0087_BISB",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0087_BISB.png",
+    "photo_path": "data/images/photo/R0087_BISB.jpg",
+    "gt_path": "data/ground_truth/R0087_BISB.json"
+  },
+  {
+    "receipt_id": "R0088_X40D",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0088_X40D.png",
+    "photo_path": "data/images/photo/R0088_X40D.jpg",
+    "gt_path": "data/ground_truth/R0088_X40D.json"
+  },
+  {
+    "receipt_id": "R0089_CH2V",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0089_CH2V.png",
+    "photo_path": "data/images/photo/R0089_CH2V.jpg",
+    "gt_path": "data/ground_truth/R0089_CH2V.json"
+  },
+  {
+    "receipt_id": "R0090_8OBK",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0090_8OBK.png",
+    "photo_path": "data/images/photo/R0090_8OBK.jpg",
+    "gt_path": "data/ground_truth/R0090_8OBK.json"
+  },
+  {
+    "receipt_id": "R0091_GU3O",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0091_GU3O.png",
+    "photo_path": "data/images/photo/R0091_GU3O.jpg",
+    "gt_path": "data/ground_truth/R0091_GU3O.json"
+  },
+  {
+    "receipt_id": "R0092_LH62",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0092_LH62.png",
+    "photo_path": "data/images/photo/R0092_LH62.jpg",
+    "gt_path": "data/ground_truth/R0092_LH62.json"
+  },
+  {
+    "receipt_id": "R0093_BCVA",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0093_BCVA.png",
+    "photo_path": "data/images/photo/R0093_BCVA.jpg",
+    "gt_path": "data/ground_truth/R0093_BCVA.json"
+  },
+  {
+    "receipt_id": "R0094_XG8Y",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0094_XG8Y.png",
+    "photo_path": "data/images/photo/R0094_XG8Y.jpg",
+    "gt_path": "data/ground_truth/R0094_XG8Y.json"
+  },
+  {
+    "receipt_id": "R0095_BPPF",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0095_BPPF.png",
+    "photo_path": "data/images/photo/R0095_BPPF.jpg",
+    "gt_path": "data/ground_truth/R0095_BPPF.json"
+  },
+  {
+    "receipt_id": "R0096_XVPB",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0096_XVPB.png",
+    "photo_path": "data/images/photo/R0096_XVPB.jpg",
+    "gt_path": "data/ground_truth/R0096_XVPB.json"
+  },
+  {
+    "receipt_id": "R0097_W9RE",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0097_W9RE.png",
+    "photo_path": "data/images/photo/R0097_W9RE.jpg",
+    "gt_path": "data/ground_truth/R0097_W9RE.json"
+  },
+  {
+    "receipt_id": "R0098_PT5R",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0098_PT5R.png",
+    "photo_path": "data/images/photo/R0098_PT5R.jpg",
+    "gt_path": "data/ground_truth/R0098_PT5R.json"
+  },
+  {
+    "receipt_id": "R0099_3DUT",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0099_3DUT.png",
+    "photo_path": "data/images/photo/R0099_3DUT.jpg",
+    "gt_path": "data/ground_truth/R0099_3DUT.json"
+  },
+  {
+    "receipt_id": "R0100_YB6L",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0100_YB6L.png",
+    "photo_path": "data/images/photo/R0100_YB6L.jpg",
+    "gt_path": "data/ground_truth/R0100_YB6L.json"
+  },
+  {
+    "receipt_id": "R0101_UG5H",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0101_UG5H.png",
+    "photo_path": "data/images/photo/R0101_UG5H.jpg",
+    "gt_path": "data/ground_truth/R0101_UG5H.json"
+  },
+  {
+    "receipt_id": "R0102_F60Y",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0102_F60Y.png",
+    "photo_path": "data/images/photo/R0102_F60Y.jpg",
+    "gt_path": "data/ground_truth/R0102_F60Y.json"
+  },
+  {
+    "receipt_id": "R0103_WVA9",
+    "category": "pharmacy",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0103_WVA9.png",
+    "photo_path": "data/images/photo/R0103_WVA9.jpg",
+    "gt_path": "data/ground_truth/R0103_WVA9.json"
+  },
+  {
+    "receipt_id": "R0104_YWR7",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0104_YWR7.png",
+    "photo_path": "data/images/photo/R0104_YWR7.jpg",
+    "gt_path": "data/ground_truth/R0104_YWR7.json"
+  },
+  {
+    "receipt_id": "R0105_4Q5V",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0105_4Q5V.png",
+    "photo_path": "data/images/photo/R0105_4Q5V.jpg",
+    "gt_path": "data/ground_truth/R0105_4Q5V.json"
+  },
+  {
+    "receipt_id": "R0106_QH1U",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0106_QH1U.png",
+    "photo_path": "data/images/photo/R0106_QH1U.jpg",
+    "gt_path": "data/ground_truth/R0106_QH1U.json"
+  },
+  {
+    "receipt_id": "R0107_LDSL",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0107_LDSL.png",
+    "photo_path": "data/images/photo/R0107_LDSL.jpg",
+    "gt_path": "data/ground_truth/R0107_LDSL.json"
+  },
+  {
+    "receipt_id": "R0108_1WVB",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0108_1WVB.png",
+    "photo_path": "data/images/photo/R0108_1WVB.jpg",
+    "gt_path": "data/ground_truth/R0108_1WVB.json"
+  },
+  {
+    "receipt_id": "R0109_SWK2",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0109_SWK2.png",
+    "photo_path": "data/images/photo/R0109_SWK2.jpg",
+    "gt_path": "data/ground_truth/R0109_SWK2.json"
+  },
+  {
+    "receipt_id": "R0110_354M",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0110_354M.png",
+    "photo_path": "data/images/photo/R0110_354M.jpg",
+    "gt_path": "data/ground_truth/R0110_354M.json"
+  },
+  {
+    "receipt_id": "R0111_UPW2",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0111_UPW2.png",
+    "photo_path": "data/images/photo/R0111_UPW2.jpg",
+    "gt_path": "data/ground_truth/R0111_UPW2.json"
+  },
+  {
+    "receipt_id": "R0112_6WA7",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0112_6WA7.png",
+    "photo_path": "data/images/photo/R0112_6WA7.jpg",
+    "gt_path": "data/ground_truth/R0112_6WA7.json"
+  },
+  {
+    "receipt_id": "R0113_OBT3",
+    "category": "pharmacy",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0113_OBT3.png",
+    "photo_path": "data/images/photo/R0113_OBT3.jpg",
+    "gt_path": "data/ground_truth/R0113_OBT3.json"
+  },
+  {
+    "receipt_id": "R0114_G7OQ",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0114_G7OQ.png",
+    "photo_path": "data/images/photo/R0114_G7OQ.jpg",
+    "gt_path": "data/ground_truth/R0114_G7OQ.json"
+  },
+  {
+    "receipt_id": "R0115_3DXV",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0115_3DXV.png",
+    "photo_path": "data/images/photo/R0115_3DXV.jpg",
+    "gt_path": "data/ground_truth/R0115_3DXV.json"
+  },
+  {
+    "receipt_id": "R0116_8SYL",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0116_8SYL.png",
+    "photo_path": "data/images/photo/R0116_8SYL.jpg",
+    "gt_path": "data/ground_truth/R0116_8SYL.json"
+  },
+  {
+    "receipt_id": "R0117_I22K",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0117_I22K.png",
+    "photo_path": "data/images/photo/R0117_I22K.jpg",
+    "gt_path": "data/ground_truth/R0117_I22K.json"
+  },
+  {
+    "receipt_id": "R0118_F4AQ",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0118_F4AQ.png",
+    "photo_path": "data/images/photo/R0118_F4AQ.jpg",
+    "gt_path": "data/ground_truth/R0118_F4AQ.json"
+  },
+  {
+    "receipt_id": "R0119_LMH1",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0119_LMH1.png",
+    "photo_path": "data/images/photo/R0119_LMH1.jpg",
+    "gt_path": "data/ground_truth/R0119_LMH1.json"
+  },
+  {
+    "receipt_id": "R0120_WHY4",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0120_WHY4.png",
+    "photo_path": "data/images/photo/R0120_WHY4.jpg",
+    "gt_path": "data/ground_truth/R0120_WHY4.json"
+  },
+  {
+    "receipt_id": "R0121_D1PO",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0121_D1PO.png",
+    "photo_path": "data/images/photo/R0121_D1PO.jpg",
+    "gt_path": "data/ground_truth/R0121_D1PO.json"
+  },
+  {
+    "receipt_id": "R0122_6MOX",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0122_6MOX.png",
+    "photo_path": "data/images/photo/R0122_6MOX.jpg",
+    "gt_path": "data/ground_truth/R0122_6MOX.json"
+  },
+  {
+    "receipt_id": "R0123_6LQW",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0123_6LQW.png",
+    "photo_path": "data/images/photo/R0123_6LQW.jpg",
+    "gt_path": "data/ground_truth/R0123_6LQW.json"
+  },
+  {
+    "receipt_id": "R0124_CCAS",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0124_CCAS.png",
+    "photo_path": "data/images/photo/R0124_CCAS.jpg",
+    "gt_path": "data/ground_truth/R0124_CCAS.json"
+  },
+  {
+    "receipt_id": "R0125_MHRC",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0125_MHRC.png",
+    "photo_path": "data/images/photo/R0125_MHRC.jpg",
+    "gt_path": "data/ground_truth/R0125_MHRC.json"
+  },
+  {
+    "receipt_id": "R0126_4SN6",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0126_4SN6.png",
+    "photo_path": "data/images/photo/R0126_4SN6.jpg",
+    "gt_path": "data/ground_truth/R0126_4SN6.json"
+  },
+  {
+    "receipt_id": "R0127_4ABU",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0127_4ABU.png",
+    "photo_path": "data/images/photo/R0127_4ABU.jpg",
+    "gt_path": "data/ground_truth/R0127_4ABU.json"
+  },
+  {
+    "receipt_id": "R0128_NEAS",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0128_NEAS.png",
+    "photo_path": "data/images/photo/R0128_NEAS.jpg",
+    "gt_path": "data/ground_truth/R0128_NEAS.json"
+  },
+  {
+    "receipt_id": "R0129_16DV",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0129_16DV.png",
+    "photo_path": "data/images/photo/R0129_16DV.jpg",
+    "gt_path": "data/ground_truth/R0129_16DV.json"
+  },
+  {
+    "receipt_id": "R0130_HTUG",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0130_HTUG.png",
+    "photo_path": "data/images/photo/R0130_HTUG.jpg",
+    "gt_path": "data/ground_truth/R0130_HTUG.json"
+  },
+  {
+    "receipt_id": "R0131_DJNV",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0131_DJNV.png",
+    "photo_path": "data/images/photo/R0131_DJNV.jpg",
+    "gt_path": "data/ground_truth/R0131_DJNV.json"
+  },
+  {
+    "receipt_id": "R0132_CDK3",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0132_CDK3.png",
+    "photo_path": "data/images/photo/R0132_CDK3.jpg",
+    "gt_path": "data/ground_truth/R0132_CDK3.json"
+  },
+  {
+    "receipt_id": "R0133_QVAE",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0133_QVAE.png",
+    "photo_path": "data/images/photo/R0133_QVAE.jpg",
+    "gt_path": "data/ground_truth/R0133_QVAE.json"
+  },
+  {
+    "receipt_id": "R0134_7YXW",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0134_7YXW.png",
+    "photo_path": "data/images/photo/R0134_7YXW.jpg",
+    "gt_path": "data/ground_truth/R0134_7YXW.json"
+  },
+  {
+    "receipt_id": "R0135_YNDN",
+    "category": "pharmacy",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0135_YNDN.png",
+    "photo_path": "data/images/photo/R0135_YNDN.jpg",
+    "gt_path": "data/ground_truth/R0135_YNDN.json"
+  },
+  {
+    "receipt_id": "R0136_6WTL",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0136_6WTL.png",
+    "photo_path": "data/images/photo/R0136_6WTL.jpg",
+    "gt_path": "data/ground_truth/R0136_6WTL.json"
+  },
+  {
+    "receipt_id": "R0137_LS1Q",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0137_LS1Q.png",
+    "photo_path": "data/images/photo/R0137_LS1Q.jpg",
+    "gt_path": "data/ground_truth/R0137_LS1Q.json"
+  },
+  {
+    "receipt_id": "R0138_CGDC",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0138_CGDC.png",
+    "photo_path": "data/images/photo/R0138_CGDC.jpg",
+    "gt_path": "data/ground_truth/R0138_CGDC.json"
+  },
+  {
+    "receipt_id": "R0139_4LR9",
+    "category": "pharmacy",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0139_4LR9.png",
+    "photo_path": "data/images/photo/R0139_4LR9.jpg",
+    "gt_path": "data/ground_truth/R0139_4LR9.json"
+  },
+  {
+    "receipt_id": "R0140_1K12",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0140_1K12.png",
+    "photo_path": "data/images/photo/R0140_1K12.jpg",
+    "gt_path": "data/ground_truth/R0140_1K12.json"
+  },
+  {
+    "receipt_id": "R0141_WGAB",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0141_WGAB.png",
+    "photo_path": "data/images/photo/R0141_WGAB.jpg",
+    "gt_path": "data/ground_truth/R0141_WGAB.json"
+  },
+  {
+    "receipt_id": "R0142_8C1C",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0142_8C1C.png",
+    "photo_path": "data/images/photo/R0142_8C1C.jpg",
+    "gt_path": "data/ground_truth/R0142_8C1C.json"
+  },
+  {
+    "receipt_id": "R0143_ERKM",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0143_ERKM.png",
+    "photo_path": "data/images/photo/R0143_ERKM.jpg",
+    "gt_path": "data/ground_truth/R0143_ERKM.json"
+  },
+  {
+    "receipt_id": "R0144_YM81",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0144_YM81.png",
+    "photo_path": "data/images/photo/R0144_YM81.jpg",
+    "gt_path": "data/ground_truth/R0144_YM81.json"
+  },
+  {
+    "receipt_id": "R0145_LQ5V",
+    "category": "cafe",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0145_LQ5V.png",
+    "photo_path": "data/images/photo/R0145_LQ5V.jpg",
+    "gt_path": "data/ground_truth/R0145_LQ5V.json"
+  },
+  {
+    "receipt_id": "R0146_GBDG",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0146_GBDG.png",
+    "photo_path": "data/images/photo/R0146_GBDG.jpg",
+    "gt_path": "data/ground_truth/R0146_GBDG.json"
+  },
+  {
+    "receipt_id": "R0147_IWG0",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0147_IWG0.png",
+    "photo_path": "data/images/photo/R0147_IWG0.jpg",
+    "gt_path": "data/ground_truth/R0147_IWG0.json"
+  },
+  {
+    "receipt_id": "R0148_W3LI",
+    "category": "cafe",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0148_W3LI.png",
+    "photo_path": "data/images/photo/R0148_W3LI.jpg",
+    "gt_path": "data/ground_truth/R0148_W3LI.json"
+  },
+  {
+    "receipt_id": "R0149_DO70",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0149_DO70.png",
+    "photo_path": "data/images/photo/R0149_DO70.jpg",
+    "gt_path": "data/ground_truth/R0149_DO70.json"
+  },
+  {
+    "receipt_id": "R0150_7WWB",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0150_7WWB.png",
+    "photo_path": "data/images/photo/R0150_7WWB.jpg",
+    "gt_path": "data/ground_truth/R0150_7WWB.json"
+  },
+  {
+    "receipt_id": "R0151_OUU9",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0151_OUU9.png",
+    "photo_path": "data/images/photo/R0151_OUU9.jpg",
+    "gt_path": "data/ground_truth/R0151_OUU9.json"
+  },
+  {
+    "receipt_id": "R0152_7IYF",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0152_7IYF.png",
+    "photo_path": "data/images/photo/R0152_7IYF.jpg",
+    "gt_path": "data/ground_truth/R0152_7IYF.json"
+  },
+  {
+    "receipt_id": "R0153_CXX6",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0153_CXX6.png",
+    "photo_path": "data/images/photo/R0153_CXX6.jpg",
+    "gt_path": "data/ground_truth/R0153_CXX6.json"
+  },
+  {
+    "receipt_id": "R0154_KR0A",
+    "category": "pharmacy",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0154_KR0A.png",
+    "photo_path": "data/images/photo/R0154_KR0A.jpg",
+    "gt_path": "data/ground_truth/R0154_KR0A.json"
+  },
+  {
+    "receipt_id": "R0155_HEY6",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0155_HEY6.png",
+    "photo_path": "data/images/photo/R0155_HEY6.jpg",
+    "gt_path": "data/ground_truth/R0155_HEY6.json"
+  },
+  {
+    "receipt_id": "R0156_VIAC",
+    "category": "electronics",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0156_VIAC.png",
+    "photo_path": "data/images/photo/R0156_VIAC.jpg",
+    "gt_path": "data/ground_truth/R0156_VIAC.json"
+  },
+  {
+    "receipt_id": "R0157_7UTX",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0157_7UTX.png",
+    "photo_path": "data/images/photo/R0157_7UTX.jpg",
+    "gt_path": "data/ground_truth/R0157_7UTX.json"
+  },
+  {
+    "receipt_id": "R0158_27ZE",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0158_27ZE.png",
+    "photo_path": "data/images/photo/R0158_27ZE.jpg",
+    "gt_path": "data/ground_truth/R0158_27ZE.json"
+  },
+  {
+    "receipt_id": "R0159_1BL0",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0159_1BL0.png",
+    "photo_path": "data/images/photo/R0159_1BL0.jpg",
+    "gt_path": "data/ground_truth/R0159_1BL0.json"
+  },
+  {
+    "receipt_id": "R0160_Y4K7",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0160_Y4K7.png",
+    "photo_path": "data/images/photo/R0160_Y4K7.jpg",
+    "gt_path": "data/ground_truth/R0160_Y4K7.json"
+  },
+  {
+    "receipt_id": "R0161_0W9R",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0161_0W9R.png",
+    "photo_path": "data/images/photo/R0161_0W9R.jpg",
+    "gt_path": "data/ground_truth/R0161_0W9R.json"
+  },
+  {
+    "receipt_id": "R0162_K2LS",
+    "category": "pharmacy",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0162_K2LS.png",
+    "photo_path": "data/images/photo/R0162_K2LS.jpg",
+    "gt_path": "data/ground_truth/R0162_K2LS.json"
+  },
+  {
+    "receipt_id": "R0163_M2O0",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0163_M2O0.png",
+    "photo_path": "data/images/photo/R0163_M2O0.jpg",
+    "gt_path": "data/ground_truth/R0163_M2O0.json"
+  },
+  {
+    "receipt_id": "R0164_NBHD",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0164_NBHD.png",
+    "photo_path": "data/images/photo/R0164_NBHD.jpg",
+    "gt_path": "data/ground_truth/R0164_NBHD.json"
+  },
+  {
+    "receipt_id": "R0165_WHHK",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0165_WHHK.png",
+    "photo_path": "data/images/photo/R0165_WHHK.jpg",
+    "gt_path": "data/ground_truth/R0165_WHHK.json"
+  },
+  {
+    "receipt_id": "R0166_3ZYT",
+    "category": "electronics",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0166_3ZYT.png",
+    "photo_path": "data/images/photo/R0166_3ZYT.jpg",
+    "gt_path": "data/ground_truth/R0166_3ZYT.json"
+  },
+  {
+    "receipt_id": "R0167_ER4K",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0167_ER4K.png",
+    "photo_path": "data/images/photo/R0167_ER4K.jpg",
+    "gt_path": "data/ground_truth/R0167_ER4K.json"
+  },
+  {
+    "receipt_id": "R0168_4EVL",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0168_4EVL.png",
+    "photo_path": "data/images/photo/R0168_4EVL.jpg",
+    "gt_path": "data/ground_truth/R0168_4EVL.json"
+  },
+  {
+    "receipt_id": "R0169_LU6K",
+    "category": "electronics",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0169_LU6K.png",
+    "photo_path": "data/images/photo/R0169_LU6K.jpg",
+    "gt_path": "data/ground_truth/R0169_LU6K.json"
+  },
+  {
+    "receipt_id": "R0170_XRGN",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0170_XRGN.png",
+    "photo_path": "data/images/photo/R0170_XRGN.jpg",
+    "gt_path": "data/ground_truth/R0170_XRGN.json"
+  },
+  {
+    "receipt_id": "R0171_3NIP",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0171_3NIP.png",
+    "photo_path": "data/images/photo/R0171_3NIP.jpg",
+    "gt_path": "data/ground_truth/R0171_3NIP.json"
+  },
+  {
+    "receipt_id": "R0172_Q0P8",
+    "category": "pharmacy",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0172_Q0P8.png",
+    "photo_path": "data/images/photo/R0172_Q0P8.jpg",
+    "gt_path": "data/ground_truth/R0172_Q0P8.json"
+  },
+  {
+    "receipt_id": "R0173_4AEG",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0173_4AEG.png",
+    "photo_path": "data/images/photo/R0173_4AEG.jpg",
+    "gt_path": "data/ground_truth/R0173_4AEG.json"
+  },
+  {
+    "receipt_id": "R0174_EGOK",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0174_EGOK.png",
+    "photo_path": "data/images/photo/R0174_EGOK.jpg",
+    "gt_path": "data/ground_truth/R0174_EGOK.json"
+  },
+  {
+    "receipt_id": "R0175_9LAA",
+    "category": "grocery",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0175_9LAA.png",
+    "photo_path": "data/images/photo/R0175_9LAA.jpg",
+    "gt_path": "data/ground_truth/R0175_9LAA.json"
+  },
+  {
+    "receipt_id": "R0176_Q7W7",
+    "category": "pharmacy",
+    "difficulty": "medium",
+    "clean_path": "data/images/clean/R0176_Q7W7.png",
+    "photo_path": "data/images/photo/R0176_Q7W7.jpg",
+    "gt_path": "data/ground_truth/R0176_Q7W7.json"
+  },
+  {
+    "receipt_id": "R0177_XABO",
+    "category": "cafe",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0177_XABO.png",
+    "photo_path": "data/images/photo/R0177_XABO.jpg",
+    "gt_path": "data/ground_truth/R0177_XABO.json"
+  },
+  {
+    "receipt_id": "R0178_BNGZ",
+    "category": "grocery",
+    "difficulty": "easy",
+    "clean_path": "data/images/clean/R0178_BNGZ.png",
+    "photo_path": "data/images/photo/R0178_BNGZ.jpg",
+    "gt_path": "data/ground_truth/R0178_BNGZ.json"
+  },
+  {
+    "receipt_id": "R0179_C0RA",
+    "category": "grocery",
+    "difficulty": "hard",
+    "clean_path": "data/images/clean/R0179_C0RA.png",
+    "photo_path": "data/images/photo/R0179_C0RA.jpg",
+    "gt_path": "data/ground_truth/R0179_C0RA.json"
+  }
+]
