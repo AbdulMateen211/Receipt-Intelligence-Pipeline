@@ -1,0 +1,58 @@
+{
+  "n_receipts": 180,
+  "summary": {
+    "raw": {
+      "mean_cer": 0.3651893318330863,
+      "mean_confidence": 67.22132706041525,
+      "mean_item_recall": 0.7332804232804234,
+      "mean_time_s": 4.596180386013455e-07,
+      "merchant_ok_accuracy": 0.6833333333333333,
+      "date_ok_accuracy": 0.5388888888888889,
+      "subtotal_ok_accuracy": 0.6277777777777778,
+      "tax_ok_accuracy": 0.6055555555555555,
+      "total_ok_accuracy": 0.7166666666666667,
+      "overall_field_accuracy": 0.6344444444444445
+    },
+    "grayscale": {
+      "mean_cer": 0.36814678432040593,
+      "mean_confidence": 67.18390706873643,
+      "mean_item_recall": 0.7361111111111112,
+      "mean_time_s": 0.0004899223645527693,
+      "merchant_ok_accuracy": 0.6722222222222223,
+      "date_ok_accuracy": 0.5166666666666667,
+      "subtotal_ok_accuracy": 0.6277777777777778,
+      "tax_ok_accuracy": 0.6055555555555555,
+      "total_ok_accuracy": 0.7277777777777777,
+      "overall_field_accuracy": 0.63
+    },
+    "pipeline": {
+      "mean_cer": 0.16847530870633662,
+      "mean_confidence": 81.456938217047,
+      "mean_item_recall": 0.8935449735449735,
+      "mean_time_s": 0.13656708531909517,
+      "merchant_ok_accuracy": 0.9222222222222223,
+      "date_ok_accuracy": 0.5333333333333333,
+      "subtotal_ok_accuracy": 0.8722222222222222,
+      "tax_ok_accuracy": 0.8444444444444444,
+      "total_ok_accuracy": 0.9777777777777777,
+      "overall_field_accuracy": 0.8299999999999998
+    }
+  },
+  "cer_by_difficulty": {
+    "raw": {
+      "easy": 0.14212434236137633,
+      "hard": 0.6826362500824936,
+      "medium": 0.2708074030553888
+    },
+    "grayscale": {
+      "easy": 0.13911008487464852,
+      "hard": 0.701961783059994,
+      "medium": 0.26336848502657534
+    },
+    "pipeline": {
+      "easy": 0.13891070036812145,
+      "hard": 0.20581145278997987,
+      "medium": 0.16070377296090857
+    }
+  }
+}
